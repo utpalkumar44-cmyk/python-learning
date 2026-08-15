@@ -1,0 +1,8 @@
+print(type(6))
+print(type(3.14))
+print(type('3'))
+print(type(None))
+print(type(True))
+print(type([1, 2, 3]))
+print(type((1, 2, 3)))
+print(type({'name': 'Alice', 'age': 30}))
